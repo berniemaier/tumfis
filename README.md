@@ -1,2 +1,2 @@
 # tumfis
-TUM Forschungs-Informatios-System
+TUM Forschungs-Informations-System
